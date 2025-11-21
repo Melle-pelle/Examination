@@ -901,7 +901,7 @@ GameObject:
   - component: {fileID: 964068656}
   - component: {fileID: 964068655}
   m_Layer: 0
-  m_Name: Canvas
+  m_Name: CanvasWithDialogue
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
