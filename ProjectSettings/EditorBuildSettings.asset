@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/StarMenu.unity
     guid: b357972c72ec4cc45a4f0f7e20c3e3fa
   - enabled: 1
+    path: Assets/Scenes/Backgroundstory.unity
+    guid: 102ed3cbf73048649b24f9ee29978a0c
+  - enabled: 1
     path: Assets/Scenes/ExaminationScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
