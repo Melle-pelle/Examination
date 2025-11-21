@@ -418,6 +418,8 @@ MonoBehaviour:
   nextButton: {fileID: 241140981}
   dialogue:
   - Your job now is to carry on their legacy.
+  - You can start by picking up some water using the bucket by the well.
+  - And make sure to avoid larry the triangle at all cost.
   - It will be challenging, but if anyone can do it.
   - Good luck out there, and have fun.
   onStartDialogue:
